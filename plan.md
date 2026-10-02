@@ -2,7 +2,7 @@
 
 ## Implementação
 
-A landing page será uma aplicação React + TypeScript + Vite de página única, sem backend, banco de dados, Firebase ou segredos no frontend. O único fluxo externo será o checkout oficial da Kiwify (`https://pay.kiwify.com.br/XbnRc5z`), usado em todos os CTAs de compra. A publicação será estática, com build para `dist/` e a rota declarada em `public/manus-routes.json`.
+A landing page será uma aplicação React + TypeScript + Vite de página única, sem backend, banco de dados, Firebase ou segredos no frontend. O único fluxo externo será o checkout oficial da Kiwify (`https://pay.kiwify.com.br/7hhseK3`), usado em todos os CTAs de compra. A publicação será estática, com build para `dist/` e a rota declarada em `public/manus-routes.json`.
 
 ### Estrutura do projeto
 

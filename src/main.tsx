@@ -2,7 +2,7 @@ import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './styles.css'
 
-const checkoutUrl = 'https://pay.kiwify.com.br/XbnRc5z'
+const checkoutUrl = 'https://pay.kiwify.com.br/7hhseK3'
 
 const features = [
   { symbol: '↗', title: 'Métodos de renda', text: 'Caminhos para explorar novas possibilidades online.' },
